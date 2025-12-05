@@ -151,8 +151,8 @@ sam.html
             <a href="#">GitHub</a>
             <a href="#">Instagram</a>
         </div>
-        <p>Name: JANARTHANAN K</p>
-        <p>Registration No: 212223040072</p>
+        <p>Name: Divya Dharshini R</p>
+        <p>Registration No: 212223040042</p>
         <p>&copy; 2025 AI Solutions Hub. All rights reserved.</p>
     </footer>
 </body>
@@ -247,7 +247,8 @@ footer {
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (1).png>)
+<img width="1920" height="925" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/f77593b0-fc9e-4396-ae24-410831edcb7f" />
+
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
